@@ -1,3 +1,5 @@
 node_modules
 .ds_Store
 npm-debug.log
+.env
+.bat
